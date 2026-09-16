@@ -72,3 +72,17 @@ Kết quả kiểm thử:
 - Class Coverage đạt 100%
 
 Bài Thực Hành 04 đã hoàn thành phần kiểm thử hộp trắng.
+
+## 6. Trạng thái báo cáo
+
+Báo cáo kiểm thử đã được hoàn thiện.
+
+Kết quả cuối cùng:
+
+- 70/70 test PASS
+- Line Coverage: 100%
+- Branch Coverage: 100%
+- Method Coverage: 100%
+- Class Coverage: 100%
+
+Project BaiThucHanh04 đã hoàn thiện phần kiểm thử và báo cáo.
